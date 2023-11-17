@@ -2,7 +2,7 @@
 <p align="center">A web developer from Brazil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlucasjm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlucasjm&layout=compact)](https://github.com/anuraghazra/github-readme-stats);
  </div>
  
  &nbsp;
