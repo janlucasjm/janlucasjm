@@ -1,16 +1,11 @@
-<h1>Olá! Sou o Jan, bem vindo!</h1>
-<p align="center">A web developer from Brazil.</p>&nbsp;
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FE428E&random=false&width=435&lines=Ol%C3%A1!+Sou+o+Jan;Seja+bem+vindo!)](https://git.io/typing-svg)
 
-<div  align="center" style="margin-bottom:100px">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlucasjm&layout=compact)](https://github.com/anuraghazra/github-readme-stats);
- </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlucasjm&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img width=41.3% src="https://github-readme-streak-stats.herokuapp.com?user=janlucasjm&theme=radical&mode=weekly" />
+
  
  &nbsp;
  &nbsp;
-
-
-
-## My Skills
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
