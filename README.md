@@ -1,9 +1,8 @@
-##Olá! Sou o Jan, bem vindo!
+<h1>Olá! Sou o Jan, bem vindo!</h1>
 <p align="center">A web developer from Brazil.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-![](https://github-readme-streak-stats.herokuapp.com/?user=janlucasjm&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=janlucasjm&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlucasjm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  </div>
  
  &nbsp;
