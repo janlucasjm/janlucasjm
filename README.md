@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FE428E&random=false&width=435&lines=Ol%C3%A1!+Sou+o+Jan;Seja+bem+vindo!)](https://git.io/typing-svg)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janlucasjm&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img width=41.3% src="https://github-readme-streak-stats.herokuapp.com?user=janlucasjm&theme=radical&mode=weekly" />
 
